@@ -22,7 +22,7 @@ def main():
         # Parsear linea
         partes = linea.split(',')
         if len(partes) != 4:
-            continue  # Ignorar lineas invalidas
+            continue  # Ignorar lineas invalidas 
         
         producto = partes[1]
         
