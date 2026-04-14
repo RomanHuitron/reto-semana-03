@@ -2,7 +2,7 @@
 Proyecto analizador y consolidado de transacciones para la materia de PCD
 
 ## Descripción
-Este programa lee datos de transacciones comerciales desde la entrada estándar, agrupa las ventas por producto y calcula métricas de rendimiento (unidades totales, ingreso acumulado y precio promedio), entregando un reporte ordenado por rentabilidad.
+En esta practica de la semana 3 hicimos un caso de la vida real en python en el cual implementamos lo visto en la semana 3, como diccionarios, agrupar, calcular metricas, etc.
 
 ## Ejemplo: Entrada (CSV)
 fecha,producto,cantidad,precio_unitario
